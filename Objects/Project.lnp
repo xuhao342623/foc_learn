@@ -26,6 +26,7 @@
 ".\objects\stm32f10x_usart.o"
 ".\objects\stm32f10x_wwdg.o"
 ".\objects\delay.o"
+".\objects\spi.o"
 ".\objects\oled.o"
 ".\objects\oled_data.o"
 ".\objects\main.o"
