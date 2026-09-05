@@ -695,6 +695,16 @@
               <FileType>5</FileType>
               <FilePath>.\Hardware\OLED_Data.h</FilePath>
             </File>
+            <File>
+              <FileName>MT6701.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Hardware\MT6701.c</FilePath>
+            </File>
+            <File>
+              <FileName>MT6701.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Hardware\MT6701.h</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
